@@ -40,3 +40,6 @@ npm run dev
 ### Custom theme
 
 See `src/styles/element/index.scss`.
+
+登录组件：src/components/login.vue
+账号密码后端：src/backend
